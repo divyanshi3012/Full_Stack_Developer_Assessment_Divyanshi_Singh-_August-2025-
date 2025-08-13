@@ -1,7 +1,7 @@
 # GreenCart Logistics Simulation Tool
 A full-stack web application to simulate delivery operations and calculate key performance indicators (KPIs) such as profit, efficiency, on-time vs late deliveries, and fuel costs.
 
-🚀 Tech Stack
+# 🚀 Tech Stack
 Frontend: React (Hooks)
 
 Backend: Node.js, Express, MongoDB
@@ -10,7 +10,7 @@ Authentication: JWT
 
 Charts: Chart.js / Recharts
 
-⚡ Features
+# ⚡ Features
 Manager login with JWT authentication
 
 CRUD operations for Drivers, Routes, and Orders
@@ -21,7 +21,7 @@ Real-time dashboard with charts
 
 Responsive UI for desktop and mobile
 
-🛠 Setup
+# 🛠 Setup
 Backend
 bash
 Copy
@@ -49,7 +49,7 @@ Frontend:
 
 REACT_APP_API_URL – Backend API base URL
 
-🌐 Deployment
+# 🌐 Deployment
 Frontend: Vercel / Netlify
 
 Backend: Render / Railway
